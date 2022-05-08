@@ -1,8 +1,8 @@
 print("Mega Car")
 login = input("Digite seu usuário \n")
 senha = input("Digite sua senha: \n")
-user_db = "leo"
-senha_db = "amanda"
+user_db = "Jeferson"
+senha_db = "85475244"
 if login == user_db and senha == senha_db:
     print("Usuário autenticado")
     print("Sistema de Locação de Veículos")
